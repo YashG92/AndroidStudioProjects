@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "116110681789",
+    "firebase_url": "https://bgmi-3d3aa-default-rtdb.firebaseio.com",
+    "project_id": "bgmi-3d3aa",
+    "storage_bucket": "bgmi-3d3aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116110681789:android:bb2140c2fce0deacf379d4",
+        "android_client_info": {
+          "package_name": "com.example.admin_bgmi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVPHtvcZ5LL_-npCTD529Vjbz2k_1Cov0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

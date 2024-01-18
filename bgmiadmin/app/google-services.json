@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35602779680",
+    "project_id": "bgmiadmin-b5f69",
+    "storage_bucket": "bgmiadmin-b5f69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35602779680:android:42acccffc11e0f308f7645",
+        "android_client_info": {
+          "package_name": "com.example.bgmiadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK1VeBX6Nkv36NvVB--RBrtqCVzuUJD7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
