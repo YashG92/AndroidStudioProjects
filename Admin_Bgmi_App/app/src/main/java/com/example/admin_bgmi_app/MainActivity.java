@@ -15,7 +15,7 @@ import com.example.admin_bgmi_app.upload.Upload_Fragment;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
-    private CardView createMatchCard, UploadCard, DeleteCard,assignedCard;
+    private CardView createMatchCard, UploadCard, DeleteCard,assignedCard,hgfjsgdhgfdg,heloo;
     private FragmentManager fragmentManager;
 
     @Override
